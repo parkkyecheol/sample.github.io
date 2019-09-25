@@ -1,0 +1,517 @@
+{
+    "models": [
+        {
+            "modelName": "leaf",
+            "modelYears": [
+                {
+                    "modelYear": "2019",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": true,
+                        "temperatures": {
+                            "min": 18,
+                            "max": 32,
+                            "default": 25
+                        }
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": true
+                    },
+
+                    "batteryLevel": {
+                        "bar": "percent",
+                        "text": "percent"
+                    }
+                },
+
+                {
+                    "modelYear": "2018",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": true,
+                        "temperatures": {
+                            "min": 18,
+                            "max": 32,
+                            "default": 25
+                        }
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": true
+                    },
+
+                    "batteryLevel": {
+                        "bar": "percent",
+                        "text": "percent"
+                    }
+                },
+
+                {
+                    "modelYear": "2016",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": false
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": true
+                    },
+
+                    "batteryLevel": {
+                        "bar": "segment_per_20",
+                        "text": "percent"
+                    }
+                },
+
+                {
+                    "modelYear": "2015",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": false
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": false
+                    },
+
+                    "batteryLevel": {
+                        "bar": "segment",
+                        "text": "segment"
+                    }
+                },
+
+                {
+                    "modelYear": "2014",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": false
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": false
+                    },
+
+                    "batteryLevel": {
+                        "bar": "segment",
+                        "text": "segment"
+                    }
+                },
+
+                {
+                    "modelYear": "2013",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": false
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": false
+                    },
+
+                    "batteryLevel": {
+                        "bar": "segment",
+                        "text": "segment"
+                    }
+                },
+
+                {
+                    "modelYear": "2011",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": false
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": false
+                    },
+
+                    "batteryLevel": {
+                        "bar": "segment",
+                        "text": "segment"
+                    }
+                }
+            ]
+        },
+
+        {
+            "modelName": "e-nv200",
+            "modelYears": [
+                {
+                    "modelYear": "2018",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": false
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": true
+                    },
+
+                    "batteryLevel": {
+                        "bar": "percent",
+                        "text": "percent"
+                    }
+                },
+
+                {
+                    "modelYear": "2016",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": false
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": false
+                    },
+
+                    "batteryLevel": {
+                        "bar": "segment",
+                        "text": "segment"
+                    }
+                },
+
+                {
+                    "modelYear": "2015",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": false
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": false
+                    },
+
+                    "batteryLevel": {
+                        "bar": "segment",
+                        "text": "segment"
+                    }
+                },
+
+                {
+                    "modelYear": "2014",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": false
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": false
+                    },
+
+                    "batteryLevel": {
+                        "bar": "segment",
+                        "text": "segment"
+                    }
+                },
+
+                {
+                    "modelYear": "2013",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": false
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": false
+                    },
+
+                    "batteryLevel": {
+                        "bar": "segment",
+                        "text": "segment"
+                    }
+                },
+
+                {
+                    "modelYear": "2011",
+
+                    "notifications": {
+                        "history": {
+                            "available": false
+                        },
+
+                        "push": {
+                            "available": false
+                        },
+
+                        "settings": {
+                            "available": false
+                        }
+                    },
+
+                    "hvacTemperature": {
+                        "available": false
+                    },
+
+                    "contact": {
+                        "available": true,
+                        "numbers": {
+                            "customerSupport": "0120-230-834"
+                        }
+                    },
+
+                    "myCarFinder": {
+                        "available": false
+                    },
+
+                    "batteryLevel": {
+                        "bar": "segment",
+                        "text": "segment"
+                    }
+                }
+            ]
+        }
+    ]
+}
