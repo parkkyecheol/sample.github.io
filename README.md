@@ -1,6 +1,6 @@
 <h1 align="center">static.io for GitHub Pages</h1>
 <H4 align="center">
-<a herf="https://pages.github.com">GitHub Pages</a> is designed to host your personal, organization, or project pages from a GitHub repository.
+GitHub Pages is designed to host your personal, organization, or project pages from a GitHub repository.
 </H4>
 
 ## Domain
