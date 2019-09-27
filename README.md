@@ -4,7 +4,7 @@ GitHub Pages is designed to host your personal, organization, or project pages f
 </H4>
 
 ## Domain
-- [static.io](http://parkkyecheol.github.io/static.io/)  is published at `http://parkkyecheol.github.io/static.io`
+- [static.io](https://parkkyecheol.github.io/static.io/)  is published at `https://parkkyecheol.github.io/static.io`
 
 ## iOS for NCEV
 - [app-config.json](https://parkkyecheol.github.io/static.io/app-metadata/v1/ios/ncev/app-config.json) is published at `https://parkkyecheol.github.io/static.io/app-metadata/v1/ios/ncev/app-config.json`
