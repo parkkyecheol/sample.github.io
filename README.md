@@ -6,11 +6,11 @@ GitHub Pages is designed to host your personal, organization, or project pages f
 ## Domain
 - [static.io](https://parkkyecheol.github.io/static.io/)  is published at `https://parkkyecheol.github.io/static.io`
 
-## iOS for NCEV
+## iOS for EV
 - [app-config.json](https://parkkyecheol.github.io/static.io/app-metadata/v1/ios/ncev/app-config.json) is published at `https://parkkyecheol.github.io/static.io/app-metadata/v1/ios/ncev/app-config.json`
 - [service-status.json](https://parkkyecheol.github.io/static.io/app-metadata/v1/ios/ncev/service-status.json) is published at `https://parkkyecheol.github.io/static.io/app-metadata/v1/ios/ncev/service-status.json`
  
- ## Android for NCEV
+ ## Android for EV
  - [app-config.json](https://parkkyecheol.github.io/static.io/app-metadata/v1/android/ncev/app-config.json) is published at `https://parkkyecheol.github.io/static.io/app-metadata/v1/android/ncev/app-config.json`
  - [service-status.json](https://parkkyecheol.github.io/static.io/app-metadata/v1/android/ncev/service-status.json) is published at `https://parkkyecheol.github.io/static.io/app-metadata/v1/android/ncev/service-status.json`
  
