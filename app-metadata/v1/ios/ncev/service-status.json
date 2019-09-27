@@ -1,13 +1,8 @@
 {
-  "apiStatus": "available",
-  "appStoreUrl": "https://itunes.apple.com/jp/app/id406767835",
-  "appVersions": {
-      "latest": "6.2.0",
-      "requiredMinimum": "0.0.1"
-  },
-  "maintenanceNotice": {
-    "id": 123456,
-    "messageTitle": "ここにメンテナンス予告のタイトル",
-    "messageDescription": "ここにメンテンス予告の説明文"
-  }
-}   
+    "apiStatus": "available",
+    "appStoreUrl": "https://itunes.apple.com/jp/app/id406767835",
+    "appVersions": {
+        "latest": "6.2.0",
+        "requiredMinimum": "0.0.1"
+    }
+}
