@@ -1,7 +1,7 @@
 {
     "apiStatus": "maintenance",
     "appStoreUrl": "https://itunes.apple.com/jp/app/id406767835",
-    "maintenanceMessage": "メンテナンステストです。¥¥n¥¥n日時：2019年10月1日　10時〜12時¥¥n¥¥nアプリが利用できなくなります。ご迷惑をかけまして申し訳ございません。",
+    "maintenanceMessage": "メンテナンステストです。\\n\\n日時：2019年10月1日　10時〜12時\\n\\nアプリが利用できなくなります。ご迷惑をかけまして申し訳ございません。",
     "appVersions": {
         "latest": "6.2.0",
         "requiredMinimum": "0.0.1"
