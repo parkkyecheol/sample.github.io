@@ -6,8 +6,8 @@
       "requiredMinimum": "0.0.1"
   },
   "maintenanceNotice": {
-    "id": 4,
-    "messageTitle": "ここにメンテナンス予告のタイトル",
-    "messageDescription": "ここにメンテンス予告の説明文"
+    "id": 5,
+    "messageTitle": "title",
+    "messageDescription": "description"
   }
 }
