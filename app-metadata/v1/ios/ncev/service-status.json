@@ -1,9 +1,9 @@
 {
   "apiStatus": "available",
-  "appStoreUrl": "https://itunes.apple.com/jp/app/id406767835",
+  "appStoreUrl": "itms-apps://itunes.apple.com/jp/app/id406767835",
   "appVersions": {
-      "latest": "6.2.0",
-      "requiredMinimum": "0.0.1"
+      "latest": "6.5.0",
+      "requiredMinimum": "6.4.1"
   },
   "maintenanceNotice": {
     "id": 6,
