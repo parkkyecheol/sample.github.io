@@ -1,13 +1,9 @@
 {
-  "apiStatus": "available",
-  "appStoreUrl": "itms-apps://itunes.apple.com/jp/app/id406767835",
+  "apiStatus": "maintenance",
+  "appStoreUrl": "https://itunes.apple.com/jp/app/id406767835",
+  "maintenanceMessage": "メンテナンステストです。",
   "appVersions": {
-      "latest": "6.5.0",
-      "requiredMinimum": "6.4.1"
-  },
-  "maintenanceNotice": {
-    "id": 6,
-    "messageTitle": "ここにメンテナンス予告のタイトル",
-    "messageDescription": "ここにメンテンス予告の説明文"
+      "latest": "6.2.0",
+      "requiredMinimum": "0.0.1"
   }
 }
