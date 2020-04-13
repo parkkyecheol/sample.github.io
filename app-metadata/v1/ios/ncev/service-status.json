@@ -1,7 +1,6 @@
 {
-  "apiStatus": "maintenance",
+  "apiStatus": "available",
   "appStoreUrl": "https://itunes.apple.com/jp/app/id406767835",
-  "maintenanceMessage": "メンテナンステストです。",
   "appVersions": {
       "latest": "6.2.0",
       "requiredMinimum": "0.0.1"
