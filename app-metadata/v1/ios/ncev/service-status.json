@@ -2,7 +2,7 @@
   "apiStatus": "available",
   "appStoreUrl": "https://itunes.apple.com/jp/app/id406767835",
   "appVersions": {
-      "latest": "6.2.0",
-      "requiredMinimum": "0.0.1"
+      "latest": "9.9.0",
+      "requiredMinimum": "9.8.8"
   }
 }
